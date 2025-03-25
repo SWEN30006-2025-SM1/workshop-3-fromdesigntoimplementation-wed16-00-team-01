@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Workshop Build",
+      "setup": "",
+      "run": "xvfb-run gradle build",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
